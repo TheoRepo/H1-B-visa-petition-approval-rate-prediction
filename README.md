@@ -1,2 +1,5 @@
-# AutoMLproject
-This repository is about ORIE4741 course project. Basically, the target of the project is to develop an algorithm to deal with big mass data.
+# Project Name: Automated Machine Learning
+
+Group Members: Tian Yu(ty364), Chengnan Xu(cx223) 
+
+This project is aimed to optimize an automated machine learning system on AutoML benchmark. The test dataset is from the benchmark dataset.
