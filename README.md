@@ -1,4 +1,4 @@
-# Project Name: H1-B Visa petition approval rate prediction
+# Project Name: H1-B visa petition approval rate prediction
 
 Group Members: Tian Yu(ty364), Chengnan Xu(cx223) 
 
